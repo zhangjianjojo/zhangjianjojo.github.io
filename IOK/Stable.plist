@@ -15,7 +15,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.17.1.251/download/Stable/Client.ipa</string>
+					<string>http://172.17.1.251/download/Stable/IOK.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dpull.rpg</string>
+				<string>com.dpull.client</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
