@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.17.1.251/download/RandD/IOK.ipa</string>
+					<string>http://172.17.1.201/download/RandD/IOK.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://172.17.1.251/logo.jpg</string>
+					<string>http://172.17.1.201/logo.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://172.17.1.251/logo.jpg</string>
+					<string>http://172.17.1.201/logo.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
