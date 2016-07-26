@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.dpull.client</string>
+				<string>com.dpull.rpg.enterprise</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>enterprise</string>
+				<string>IOK</string>
 			</dict>
 		</dict>
 	</array>
