@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>New item - 2</key>
+	<key>XMFS</key>
 	<string></string>
 	<key>New item</key>
 	<string></string>
@@ -15,7 +15,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.17.1.201/download/Stable/Client.ipa</string>
+					<string>http://172.17.1.201/download/Stable/1014/Client.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
