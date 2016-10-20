@@ -2,7 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>XMFS</key>
+	<key>小米封神0.9.3</key>
+	<string></string>
+	<key>New item</key>
+	<string></string>
+	<key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
