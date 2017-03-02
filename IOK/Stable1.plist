@@ -15,7 +15,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://172.17.1.201/download/Stable/0930/Client.ipa</string>
+					<string>http://172.17.1.201/download/Stable/2/Client.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.dujie.month</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>小米封神0.9.3</string>
+				<string>小米封神</string>
 			</dict>
 		</dict>
 	</array>
